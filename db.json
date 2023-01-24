@@ -1,0 +1,83 @@
+{
+    "cardapio": [
+        {
+            "comida": "hamburguer",
+            "preço": 40,
+            "pais": "brasil"
+        },
+        {
+            "comida": "pizza",
+            "preço": 50,
+            "pais": "italia"
+        },
+        {
+            "comida": "taco",
+            "preço": 45,
+            "pais": "mexico"
+        },
+        {
+            "comida": "sushi",
+            "preço": 60,
+            "pais": "japao"
+        },
+        {
+            "comida": "samosa",
+            "preço": 25,
+            "pais": "india"
+        }
+    ],
+    "bebidas": [
+        {
+            "bebida": "drink",
+            "preço": 40,
+            "tipo": "taça"
+        },
+        {
+            "bebida": "refrigerante",
+            "preço": 10,
+            "tipo": "lata"
+        },
+        {
+            "bebida": "cerveja",
+            "preço": 16,
+            "tipo": "garrafa"
+        },
+        {
+            "bebida": "chopp",
+            "preço": 10,
+            "tipo": "tulipa"
+        },
+        {
+            "bebida": "agua",
+            "preço": 6,
+            "tipo": "garrafa"
+        }
+    ],
+    "musica": [
+        {
+            "segunda": "rock",
+            "banda": "soad",
+            "taxa": "10"
+        },
+        {
+            "terça": "karaoke",
+            "banda": "publico",
+            "taxa": "5"
+        },
+        {
+            "quarta": "jazz",
+            "banda": "ella",
+            "taxa": "10"
+        },
+        {
+            "quinta": "cover",
+            "banda": "boyce",
+            "taxa": "10"
+        },
+        {
+            "sexta": "antigas",
+            "banda": "cantores",
+            "taxa": "10"
+        }
+    ]
+}
