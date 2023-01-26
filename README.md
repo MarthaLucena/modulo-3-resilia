@@ -6,6 +6,7 @@ O passos a seguir são referentes ao projeto individual do 3º Módulo do curso 
 Projeto Individual Módulo 3 - Resilia
 
 1º passo -> Acessar o link "https://www.npmjs.com/package/json-server";
+
 2º passo -> Use o comando "npm install -g json-server" no CMD do computador;
 3º passo -> Criar um arquivo chamado db.json com as informações do projeto e abrir a pasta na qual este arquivo está inserido no seu editor de código;
 4º passo -> Abrir o terminal do editor e colocar o comando "npx json-server --watch db.json" para iniciar o JSON server;
