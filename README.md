@@ -23,5 +23,4 @@ Projeto Individual Módulo 3 - Resilia
 
 9º passo -> Criar uma conta no https://render.com/ e conectar o repositório do GitHub em questão na opção New -> Web Service;
 
-10º passo -> Quando o deploy estiver finalizado, o link para acesso será o https://all-around-pub.onrender.com.
-
+10º passo -> Quando o deploy estiver finalizado, o link para acesso será o "https://all-around-pub.onrender.com".
